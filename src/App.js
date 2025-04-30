@@ -10,12 +10,6 @@ function App() {
         деплою в Azure Static Web Apps.
       </p>
       <img src={logo} className="App-logo" alt="logo" />
-      <a
-        className="App-link"
-        href="https://reactjs.org"
-        target="_blank"
-        rel="noopener noreferrer"
-      ></a>
     </div>
   );
 }
